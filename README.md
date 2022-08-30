@@ -1,5 +1,5 @@
 # AntiFireAndGasProject_Tech4Geeks
-<p align="left">هذا المشروع يوفر شرح لتصميم  و  تنفيذ انذار غى حالة حدوث ادخنة الحرائق و تسريبات الغاز</p>
+<p align="left">هذا المشروع يوفر شرح للتحكم الذكى فى رى النباتات</p>
 <p align="left">لمتابعة كل أعمال tech4geeks على قناة ZagSystems</p>
 
 [![en](https://img.shields.io/badge/ZagSystems-Youtube-red.svg)](https://www.youtube.com/channel/UCApZwHMYwzuk53znVdytCQg)
